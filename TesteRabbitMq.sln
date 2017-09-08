@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteRabbitMq", "TesteRabbitMq\TesteRabbitMq.csproj", "{05B63589-FF2B-4A9C-8F07-57F1C66EC5F7}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9BE7BF63-A9D2-426A-AEC7-E08C8064BB76}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{B0F69E7F-18C1-4F7F-9896-0E64B346DC7F}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{05B63589-FF2B-4A9C-8F07-57F1C66EC5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{05B63589-FF2B-4A9C-8F07-57F1C66EC5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{05B63589-FF2B-4A9C-8F07-57F1C66EC5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{05B63589-FF2B-4A9C-8F07-57F1C66EC5F7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9BE7BF63-A9D2-426A-AEC7-E08C8064BB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9BE7BF63-A9D2-426A-AEC7-E08C8064BB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BE7BF63-A9D2-426A-AEC7-E08C8064BB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
